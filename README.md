@@ -4,7 +4,7 @@ This Repository contains the code I used to tackle the problem of detecting poin
 ## Usage
 
 Run [train.py](https://github.com/piyush2896/Vehicle-Number-Plate-BB-Detection/blob/master/train.py) to train a model which will be saved 
-to [model](https://github.com/piyush2896/Vehicle-Number-Plate-BB-Detection/blob/master/model) sub-folder.
+to model sub-folder.
 
 Run [predictor.py](https://github.com/piyush2896/Vehicle-Number-Plate-BB-Detection/blob/master/predictor.py) to see the result of the model.
 
@@ -14,3 +14,6 @@ Run [predictor.py](https://github.com/piyush2896/Vehicle-Number-Plate-BB-Detecti
 3. OpenCV
 4. Matplotlib
 5. Pandas
+
+## Model
+You can find my model [here](https://drive.google.com/file/d/0B7DbURrzhxrBWm5rQk5zT0xFaFE/view?usp=sharing)
