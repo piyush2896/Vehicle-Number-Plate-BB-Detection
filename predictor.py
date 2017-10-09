@@ -52,6 +52,6 @@ if __name__ == '__main__':
     xs, ys = scale_(xs, ys, (0, img.shape[1]), (0, img.shape[0]))
     print(xs, ys)
     plt.figure(0)
-    plt.imshow(img, cmap='gray')
+    plt.imshow(img)
     plt.plot(xs[0], ys[0], c='r')
     plt.show()
